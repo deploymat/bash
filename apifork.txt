@@ -1,0 +1,20 @@
+https://github.com/letwhois/bash.git letwhois
+#https://github.com/flatedit/bash.git flatedit
+https://github.com/apidsl/bash apidsl
+https://github.com/grabwhois/bash grabwhois
+https://github.com/api-pong/bash apipong
+https://github.com/airscanning/bash airscanning
+https://github.com/multisitemap/bash multisitemap
+https://github.com/botreck/puppeteer puppeteer
+https://github.com/letwhois/bash whois
+https://github.com/letpath/bash path
+https://github.com/reactphp/dns reactphp
+#https://github.com/let-api/plesk plesk
+https://github.com/botreck/premium.pl premium.pl
+#https://github.com/botreck/xolo.io
+#https://github.com/botreck/strato.de strato.de
+#https://github.com/botreck/github.com github.com
+#https://github.com/botreck/plesk plesk
+#https://github.com/botreck/aftermarket.pl aftermarket.pl
+#https://github.com/botreck/sav.com sav.com
+#https://github.com/botreck/namesilo.com namesilo.com

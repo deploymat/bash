@@ -1,3 +1,24 @@
+flatedit
+apifork
+apidsl
+premium.pl
+.apipackage.logs.txt
+.apidsl.logs.txt
+DOCS/PROJECTS.md
+DOCS/PROJECTS_LOCAL.md
+readme.logs.txt
+test/index.html
+index.html
+test2.txt
+reactphp
+whois-registrar
+*/out.csv
+bash
+apimacro
+grabwhois
+reactphp/
+.idea
+
 # Logs
 logs
 *.log
@@ -102,3 +123,15 @@ dist
 
 # TernJS port file
 .tern-port
+.flatedit.logs.txt
+letwhois
+apidsl
+grabwhois
+apipong
+airscanning
+multisitemap
+puppeteer
+whois
+path
+reactphp
+premium.pl

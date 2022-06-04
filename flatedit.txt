@@ -1,0 +1,5 @@
+#./DOCS/MENU.md
+./DOCS/ABOUT.md
+./DOCS/DEPLOY.md
+./DOCS/FRONTEND.md
+./DOCS/FOOT.md
